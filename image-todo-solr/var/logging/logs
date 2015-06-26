@@ -1,0 +1,6 @@
+2015-05-24_11:23:02.356 [main] DEBUG com.example.Main - testing{numFound=1,start=0,docs=[SolrDocument{id=123456789, name=[HP pc with windows OS], price=[800], _version_=1502076503137976320}]}
+2015-05-24_11:25:25.637 [main] DEBUG com.example.Main - testing{numFound=3,start=0,docs=[SolrDocument{id=123456789, name=[Mac computer], price=[1200], _version_=1502076652312592384}, SolrDocument{id=George, description=[finish your homework], category=[school], date=[2015-05-24T11:25:24.450], _version_=1502076652349292544}, SolrDocument{id=John, description=[Buy a computer], category=[Shopping], date=[2015-05-24T11:25:24.492], _version_=1502076652354535424}]}
+2015-05-24_11:25:27.672 [main] DEBUG com.example.Main - testing{numFound=2,start=0,docs=[SolrDocument{id=John, description=[Buy a computer], category=[Shopping], date=[2015-05-24T11:25:24.492], _version_=1502076652354535424}, SolrDocument{id=123456789, name=[Mac computer with OSX ], price=[800], _version_=1502076653434568704}]}
+2015-05-24_11:25:28.687 [main] DEBUG com.example.Main - testing{numFound=0,start=0,docs=[]}
+2015-05-26_14:15:42.750 [main] DEBUG com.example.Main - testing{numFound=0,start=0,docs=[]}
+2015-05-26_14:21:39.073 [main] DEBUG com.example.Main - testing{numFound=0,start=0,docs=[]}
